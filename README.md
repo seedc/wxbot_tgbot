@@ -3,9 +3,8 @@
 windows图形化后续开发-主要用于运维端口监控
 
 BY：kaer
-QQ：188189858 #一般不在线
 
-TG：anonymous #长期在线
+TG：@anonymous #长期在线
 
 配置格式config.json
 
