@@ -9,7 +9,8 @@ TG：anonymous #长期在线
 
 配置格式config.json
 
-```{
+```
+{
   "14.215.177.39": {
           "http": "80",
           "https": "443",
