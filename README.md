@@ -29,6 +29,8 @@ WXinterlin.py ：内修改你的微信报警群名字
 
 微信运行后终端会出现二维码，扫码登录即可。
 
+
+
 Telegram 报警修改:
 TGinterlin.py ：修改你的bot ID如下
 ```
