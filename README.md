@@ -1,9 +1,10 @@
 
 # 个人微信bot远程监控端口报警和TG远程监控端口报警
-windows图形化续开发-主要用于运维端口监控
+windows图形化后续开发-主要用于运维端口监控
 
 BY：kaer
 QQ：188189858 #一般不在线
+
 TG：anonymous #长期在线
 
 配置格式config.json
