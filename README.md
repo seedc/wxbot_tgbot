@@ -4,7 +4,7 @@ windows图形化后续开发-主要用于运维端口监控
 
 BY：kaer
 
-TG：@anonymousxxxxxx #长期在线
+TG：@seedccy #长期在线
 
 配置格式config.json
 
